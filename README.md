@@ -4,7 +4,7 @@
      - Data analytics
      - Machine Learning
      - Data Engineering
- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...
      - Python
      - SQL
      - Data warehousing

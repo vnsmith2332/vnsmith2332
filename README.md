@@ -4,6 +4,7 @@
      - Data analytics
      - Machine Learning
      - Data Engineering
+     - Artificial Intelligence
 - 🌱 I’m currently learning ...
      - Python
      - SQL
